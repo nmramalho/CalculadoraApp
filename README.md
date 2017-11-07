@@ -1,7 +1,7 @@
 # CalculadoraApp
 Exemplo (criado para as aulas de Cursos Profissionais de Informática) de uma aplicação que inclui o componente UserControlTeclado (https://github.com/nmramalho/UserControlTeclado).
 
-# Prerequisitos
+# Pre-requisitos
  - UserControlTeclado (https://github.com/nmramalho/UserControlTeclado).
  - O projeto deve incluir uma classe Calcular (Class Library) criada para a realização dos cáculos.
 
